@@ -1,0 +1,49 @@
+{
+  "name": "rest-easy",
+  "version": "0.0.1",
+  "description": "rest-easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/3gweb/rest-easy.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest",
+    "restful",
+    "web",
+    "resteasy",
+    "rest-easy"
+  ],
+  "author": {
+    "name": "3Gweb",
+    "email": "contato@3gweb.com.br",
+    "url": "http://www.3gweb.com.br"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4536cd773cf7969880d50790c155dcf9d3a6492e",
+  "bugs": {
+    "url": "https://github.com/3gweb/rest-easy/issues"
+  },
+  "contributors": [
+    {
+      "name": "Guilherme Mangabeira Gregio",
+      "email": "guilherme@3gweb.com.br"
+    },
+    {
+      "name": "Rafael Antonio Lucio",
+      "email": "rafaelantoniolucio@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "sinon": "~1.7.3",
+    "istanbul": "~0.1.37",
+    "mocha": "~1.11.0",
+    "plato": "~0.5.0"
+  }
+}
